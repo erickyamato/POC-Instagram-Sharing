@@ -19,6 +19,7 @@
 		D821F77629E6FE030050391A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D821F77829E6FE050050391A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D821F77B29E6FE050050391A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D821F7AD29E6FF630050391A /* POC-Instagram-Sharing-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "POC-Instagram-Sharing-Info.plist"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +52,7 @@
 		D821F77329E6FE030050391A /* POC Instagram Sharing */ = {
 			isa = PBXGroup;
 			children = (
+				D821F7AD29E6FF630050391A /* POC-Instagram-Sharing-Info.plist */,
 				D821F77429E6FE030050391A /* POC_Instagram_SharingApp.swift */,
 				D821F77629E6FE030050391A /* ContentView.swift */,
 				D821F77829E6FE050050391A /* Assets.xcassets */,
@@ -270,6 +272,7 @@
 				DEVELOPMENT_TEAM = CNG5QE3HNB;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "POC-Instagram-Sharing-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -299,6 +302,7 @@
 				DEVELOPMENT_TEAM = CNG5QE3HNB;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "POC-Instagram-Sharing-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
